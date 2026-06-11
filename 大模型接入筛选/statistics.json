@@ -1,0 +1,870 @@
+{
+  "threshold": 0.6,
+  "description": "satisfied占比超过60.00%才算满足要求",
+  "summary": {
+    "total_videos": 6,
+    "satisfied_videos": 1,
+    "unsatisfied_videos": 5
+  },
+  "details": [
+    {
+      "video_path": "D:\\demo_download\\interal\\videos\\【Tao桃手工】钩针编织可爱小排球包包挂件钥匙扣.mp4",
+      "total_frames": 59,
+      "satisfied_frames": 2,
+      "unsatisfied_frames": 57,
+      "frame_details": [
+        {
+          "timestamp": 0,
+          "satisfied": true,
+          "reason": "图片中有两个手工编织的排球钥匙扣，它们是球类并且与人互动"
+        },
+        {
+          "timestamp": 30,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 60,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与球类相关的活动。"
+        },
+        {
+          "timestamp": 90,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与球类的互动"
+        },
+        {
+          "timestamp": 120,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 150,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 180,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 210,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 240,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 270,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 300,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 330,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 360,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与球类相关的活动。"
+        },
+        {
+          "timestamp": 390,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 420,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 450,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 480,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 510,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 540,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与球类相关的活动。"
+        },
+        {
+          "timestamp": 570,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 600,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与球类相关的活动。"
+        },
+        {
+          "timestamp": 630,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与球类相关的活动。"
+        },
+        {
+          "timestamp": 660,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 690,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 720,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与球类相关的活动。"
+        },
+        {
+          "timestamp": 750,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与球类相关的活动。"
+        },
+        {
+          "timestamp": 780,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与球类相关的活动。"
+        },
+        {
+          "timestamp": 810,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与球类相关的活动。"
+        },
+        {
+          "timestamp": 840,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 870,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与球类相关的活动。"
+        },
+        {
+          "timestamp": 900,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 930,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 960,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 990,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1020,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1050,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1080,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与球类相关的活动。"
+        },
+        {
+          "timestamp": 1110,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1140,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1170,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与球类相关的活动。"
+        },
+        {
+          "timestamp": 1200,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1230,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1260,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1290,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1320,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1350,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1380,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1410,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1440,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1470,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1500,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1530,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1560,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1590,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1620,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1650,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类在与人互动的场景。"
+        },
+        {
+          "timestamp": 1680,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1710,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 1737,
+          "satisfied": true,
+          "reason": "图片中有一个手工编织的排球钥匙扣，且有人正在用手拿着它。"
+        }
+      ],
+      "status": "completed",
+      "satisfied_ratio": 0.0339,
+      "threshold": 0.6,
+      "is_satisfied": false,
+      "completed_at": "2026-06-10T10:33:49.673903"
+    },
+    {
+      "video_path": "D:\\demo_download\\interal\\videos\\【盐城中考体育实心球】新作上线，快来看看！.mp4",
+      "total_frames": 2,
+      "satisfied_frames": 1,
+      "unsatisfied_frames": 1,
+      "frame_details": [
+        {
+          "timestamp": 0,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类运动或与人的互动"
+        },
+        {
+          "timestamp": 14,
+          "satisfied": true,
+          "reason": "图片中有一个人正在做投掷动作，符合与人互动的要求。"
+        }
+      ],
+      "status": "completed",
+      "satisfied_ratio": 0.5,
+      "threshold": 0.6,
+      "is_satisfied": false,
+      "completed_at": "2026-06-10T10:33:49.674508"
+    },
+    {
+      "video_path": "D:\\demo_download\\interal\\videos\\中考实心球满分技巧与练法.mp4",
+      "total_frames": 15,
+      "satisfied_frames": 8,
+      "unsatisfied_frames": 7,
+      "frame_details": [
+        {
+          "timestamp": 0,
+          "satisfied": true,
+          "reason": "图片中有一个穿黑色衣服的人拿着一个橙色的球，背景是绿色的运动场，符合题目要求"
+        },
+        {
+          "timestamp": 30,
+          "satisfied": true,
+          "reason": "图片中有两个人在打太极"
+        },
+        {
+          "timestamp": 60,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 90,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 120,
+          "satisfied": true,
+          "reason": "图片中有一个人正在做投掷动作，手中拿着一个球，背景是运动场，符合题目要求。"
+        },
+        {
+          "timestamp": 150,
+          "satisfied": true,
+          "reason": "图片中有一个穿黑色衣服的人正在投掷一个黄色的球，背景中有篮球场和树木。"
+        },
+        {
+          "timestamp": 180,
+          "satisfied": true,
+          "reason": "图片中有一个穿深蓝色上衣和黑色裤子的人正在做投掷动作，手中拿着一个橙色球体，背景中有运动场地和树木。"
+        },
+        {
+          "timestamp": 210,
+          "satisfied": true,
+          "reason": "图片展示了一个人在进行掷实心球的动作，这是一个与球类相关的活动。"
+        },
+        {
+          "timestamp": 240,
+          "satisfied": true,
+          "reason": "图片中有一个人正在投掷一个黄色的球，背景中可以看到其他人在进行体育活动。"
+        },
+        {
+          "timestamp": 270,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类运动或与人的互动"
+        },
+        {
+          "timestamp": 300,
+          "satisfied": true,
+          "reason": "图片中有一个橙色的球，可能是篮球或类似的球类，且有人正在用手握住它。"
+        },
+        {
+          "timestamp": 330,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 360,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 390,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与球类相关的活动。"
+        },
+        {
+          "timestamp": 413,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        }
+      ],
+      "status": "completed",
+      "satisfied_ratio": 0.5333,
+      "threshold": 0.6,
+      "is_satisfied": false,
+      "completed_at": "2026-06-10T10:33:49.674508"
+    },
+    {
+      "video_path": "D:\\demo_download\\interal\\videos\\全国中小学体育优质公开课《排球正面双手垫球》完整视频+配套教案+逐字稿均有，全国中小学体育与健康课教学展示研讨活动.mp4",
+      "total_frames": 61,
+      "satisfied_frames": 61,
+      "unsatisfied_frames": 0,
+      "frame_details": [
+        {
+          "timestamp": 0,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且有人在进行相关活动"
+        },
+        {
+          "timestamp": 30,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 60,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且有人在进行相关活动。"
+        },
+        {
+          "timestamp": 90,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且有人在进行相关活动。"
+        },
+        {
+          "timestamp": 120,
+          "satisfied": true,
+          "reason": "图片中有学生在进行排球运动"
+        },
+        {
+          "timestamp": 150,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且有人在进行与球的互动。"
+        },
+        {
+          "timestamp": 180,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且有人在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 210,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且有人正在参与"
+        },
+        {
+          "timestamp": 240,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且有人正在参与"
+        },
+        {
+          "timestamp": 270,
+          "satisfied": true,
+          "reason": "图片中有学生在进行排球正面双手垫球的练习"
+        },
+        {
+          "timestamp": 300,
+          "satisfied": true,
+          "reason": "图片中有排球，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 330,
+          "satisfied": true,
+          "reason": "图片中有学生正在参与排球正面双手垫球的练习"
+        },
+        {
+          "timestamp": 360,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 390,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 420,
+          "satisfied": true,
+          "reason": "图片中有排球，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 450,
+          "satisfied": true,
+          "reason": "图片中有排球，且学生在进行与排球相关的练习"
+        },
+        {
+          "timestamp": 480,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且学生在进行与排球相关的练习。"
+        },
+        {
+          "timestamp": 510,
+          "satisfied": true,
+          "reason": "图片中有排球，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 540,
+          "satisfied": true,
+          "reason": "图片中有排球，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 570,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且学生在进行与排球相关的练习。"
+        },
+        {
+          "timestamp": 600,
+          "satisfied": true,
+          "reason": "图片中有排球，且有人在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 630,
+          "satisfied": true,
+          "reason": "图片中有排球，且有人正在与球互动"
+        },
+        {
+          "timestamp": 660,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且有人正在参与"
+        },
+        {
+          "timestamp": 690,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且有人正在参与"
+        },
+        {
+          "timestamp": 720,
+          "satisfied": true,
+          "reason": "图片中有排球，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 750,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且学生在进行与排球相关的练习。"
+        },
+        {
+          "timestamp": 780,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且有人在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 810,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且有人正在参与"
+        },
+        {
+          "timestamp": 840,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且有人正在参与"
+        },
+        {
+          "timestamp": 870,
+          "satisfied": true,
+          "reason": "图片中有排球，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 900,
+          "satisfied": true,
+          "reason": "图片中有排球，且有人正在与球互动"
+        },
+        {
+          "timestamp": 930,
+          "satisfied": true,
+          "reason": "图片中有排球，且有人在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 960,
+          "satisfied": true,
+          "reason": "图片中有排球，且有人正在与排球进行互动。"
+        },
+        {
+          "timestamp": 990,
+          "satisfied": true,
+          "reason": "图片中有排球，且正在与人互动"
+        },
+        {
+          "timestamp": 1020,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 1050,
+          "satisfied": true,
+          "reason": "图片中有排球，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 1080,
+          "satisfied": true,
+          "reason": "图片中有排球，且有人正在与球互动"
+        },
+        {
+          "timestamp": 1110,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 1140,
+          "satisfied": true,
+          "reason": "图片中有排球，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 1170,
+          "satisfied": true,
+          "reason": "图片中有排球，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 1200,
+          "satisfied": true,
+          "reason": "图片中有排球，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 1230,
+          "satisfied": true,
+          "reason": "图片中有排球，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 1260,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且有人在进行与球的互动"
+        },
+        {
+          "timestamp": 1290,
+          "satisfied": true,
+          "reason": "图片中有学生在进行排球正面双手垫球的练习"
+        },
+        {
+          "timestamp": 1320,
+          "satisfied": true,
+          "reason": "图片中有排球，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 1350,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且有人正在参与"
+        },
+        {
+          "timestamp": 1380,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且有人正在参与"
+        },
+        {
+          "timestamp": 1410,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 1440,
+          "satisfied": true,
+          "reason": "图片中有排球，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 1470,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且有人在进行相关练习"
+        },
+        {
+          "timestamp": 1500,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且学生在进行与排球相关的互动活动。"
+        },
+        {
+          "timestamp": 1530,
+          "satisfied": true,
+          "reason": "图片中有排球，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 1560,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 1590,
+          "satisfied": true,
+          "reason": "图片中有两个人正在打排球"
+        },
+        {
+          "timestamp": 1620,
+          "satisfied": true,
+          "reason": "图片中有排球，且有人在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 1650,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且有人在进行相关活动。"
+        },
+        {
+          "timestamp": 1680,
+          "satisfied": true,
+          "reason": "图片中有排球运动，且有人正在参与"
+        },
+        {
+          "timestamp": 1710,
+          "satisfied": true,
+          "reason": "图片中有排球，且有人在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 1740,
+          "satisfied": true,
+          "reason": "图片中有排球和正在参与互动的学生"
+        },
+        {
+          "timestamp": 1770,
+          "satisfied": true,
+          "reason": "图片中有排球，且学生在进行与排球相关的活动。"
+        },
+        {
+          "timestamp": 1779,
+          "satisfied": true,
+          "reason": "图片中有排球，且学生在进行与排球相关的活动。"
+        }
+      ],
+      "status": "completed",
+      "satisfied_ratio": 1.0,
+      "threshold": 0.6,
+      "is_satisfied": true,
+      "completed_at": "2026-06-10T10:33:49.674508"
+    },
+    {
+      "video_path": "D:\\demo_download\\interal\\videos\\均匀带电球壳和均匀带电实心球体内外电场强度E随距离变化关系讲解（电场强度）.mp4",
+      "total_frames": 12,
+      "satisfied_frames": 0,
+      "unsatisfied_frames": 12,
+      "frame_details": [
+        {
+          "timestamp": 0,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 30,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 60,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 90,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 120,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 150,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 180,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 210,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 240,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 270,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 300,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 305,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        }
+      ],
+      "status": "completed",
+      "satisfied_ratio": 0.0,
+      "threshold": 0.6,
+      "is_satisfied": false,
+      "completed_at": "2026-06-10T10:33:49.674508"
+    },
+    {
+      "video_path": "D:\\demo_download\\interal\\videos\\适合小学排球教练收藏-适合排球宝妈宝爸收藏.mp4",
+      "total_frames": 7,
+      "satisfied_frames": 4,
+      "unsatisfied_frames": 3,
+      "frame_details": [
+        {
+          "timestamp": 0,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 30,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        },
+        {
+          "timestamp": 60,
+          "satisfied": true,
+          "reason": "图片中有排球运动，这是球类运动的一种，且人物正在参与其中。"
+        },
+        {
+          "timestamp": 90,
+          "satisfied": true,
+          "reason": "图片中有排球和正在参与活动的人"
+        },
+        {
+          "timestamp": 120,
+          "satisfied": true,
+          "reason": "图片中有排球和运动员在互动"
+        },
+        {
+          "timestamp": 150,
+          "satisfied": true,
+          "reason": "图片中有两个人正在打排球，符合'在与人互动中'的条件。"
+        },
+        {
+          "timestamp": 164,
+          "satisfied": false,
+          "reason": "图片中没有显示任何球类或与人的互动"
+        }
+      ],
+      "status": "completed",
+      "satisfied_ratio": 0.5714,
+      "threshold": 0.6,
+      "is_satisfied": false,
+      "completed_at": "2026-06-10T10:33:49.674508"
+    }
+  ],
+  "generated_at": "2026-06-10T10:33:49.674508"
+}

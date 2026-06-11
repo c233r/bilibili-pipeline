@@ -1,0 +1,83 @@
+[
+  {
+    "video_path": "D:\\demo_download\\interal\\videos\\【Tao桃手工】钩针编织可爱小排球包包挂件钥匙扣.mp4",
+    "status": "discarded",
+    "reason": "满足率 3.3% < 50%",
+    "initial_ratio": 0.03333333333333333,
+    "analysis_level": "initial"
+  },
+  {
+    "video_path": "D:\\demo_download\\interal\\videos\\【盐城中考体育实心球】新作上线，快来看看！.mp4",
+    "status": "discarded",
+    "reason": "精细化分析第1轮后满足率 0.0% < 50%",
+    "initial_ratio": 0.5,
+    "final_ratio": 0.0,
+    "analysis_level": "refined_iteration_1",
+    "iterations": 1
+  },
+  {
+    "video_path": "D:\\demo_download\\interal\\videos\\中考实心球满分技巧与练法.mp4",
+    "status": "saved",
+    "reason": "满足率 72.7% > 70%",
+    "output_paths": [
+      "D:\\demo_download\\interal\\videos\\output\\中考实心球满分技巧与练法_1_0-30.mp4",
+      "D:\\demo_download\\interal\\videos\\output\\中考实心球满分技巧与练法_2_90-330.mp4"
+    ],
+    "initial_ratio": 0.625,
+    "final_ratio": 0.7272727272727273,
+    "analysis_level": "refined",
+    "segments": [
+      [
+        0,
+        30.0
+      ],
+      [
+        90.0,
+        330.0
+      ]
+    ]
+  },
+  {
+    "video_path": "D:\\demo_download\\interal\\videos\\全国中小学体育优质公开课《排球正面双手垫球》完整视频+配套教案+逐字稿均有，全国中小学体育与健康课教学展示研讨活动.mp4",
+    "status": "saved",
+    "reason": "满足率 100.0% > 70%",
+    "output_paths": [
+      "D:\\demo_download\\interal\\videos\\output\\全国中小学体育优质公开课《排球正面双手垫球》完整视频+配套教案+逐字稿均有，全国中小学体育与健康课教学展示研讨活动.mp4"
+    ],
+    "initial_ratio": 1.0,
+    "final_ratio": 1.0,
+    "analysis_level": "initial",
+    "segments": null
+  },
+  {
+    "video_path": "D:\\demo_download\\interal\\videos\\均匀带电球壳和均匀带电实心球体内外电场强度E随距离变化关系讲解（电场强度）.mp4",
+    "status": "discarded",
+    "reason": "满足率 0.0% < 50%",
+    "initial_ratio": 0.0,
+    "analysis_level": "initial"
+  },
+  {
+    "video_path": "D:\\demo_download\\interal\\videos\\适合小学排球教练收藏-适合排球宝妈宝爸收藏.mp4",
+    "status": "saved",
+    "reason": "满足率 80.0% > 70%",
+    "output_paths": [
+      "D:\\demo_download\\interal\\videos\\output\\适合小学排球教练收藏-适合排球宝妈宝爸收藏_1_30-150.mp4"
+    ],
+    "initial_ratio": 0.5,
+    "final_ratio": 0.8,
+    "analysis_level": "refined",
+    "segments": [
+      [
+        30.0,
+        150.0
+      ]
+    ]
+  },
+  {
+    "video_path": "D:\\demo_download\\interal\\videos\\output\\中考实心球满分技巧与练法.mp4",
+    "status": "discarded",
+    "reason": "满足率 0.0% < 50%",
+    "initial_ratio": 0.0,
+    "analysis_level": "initial"
+  }
+]

@@ -1,0 +1,32 @@
+# B站爬虫配置文件（包含Cookie路径等敏感信息）
+config.json
+
+# Cookie文件
+cookies.txt
+cookies.json
+*.cookie
+
+# 下载目录
+downloads/
+bilibili_downloads/
+videos/
+tv/
+ups/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
